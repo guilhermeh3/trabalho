@@ -1,0 +1,36 @@
+
+header{
+    background: red;
+    color: white;
+   width: 1500px;
+   height: 100px;
+    
+}
+
+a {font-size: 40pt;
+    height: 100px;
+    padding-top: 20px;
+    font-style: italic;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+}
+
+.div1 {text-align: center;
+       font-style: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+h1 {font-size: 40pt;}
+
+
+.div2 {text-align: center;
+font-style: normal;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
+.div3 {text-align: center;
+       
+    }
+
+    .div4 {text-align: center;}
+
+.div5 {text-align: center;}
